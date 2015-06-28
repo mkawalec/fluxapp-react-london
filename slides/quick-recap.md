@@ -1,3 +1,3 @@
 ##  Quick recap
 
-![](/drawing.png)
+![](slides/drawing.png)
