@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "FluxApp",
+    "packageVersion": "0.0.0",
+    "revealTheme": "serif",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mkawalec",
+    "githubRepository": "fluxapp-react-london"
+  }
+}
