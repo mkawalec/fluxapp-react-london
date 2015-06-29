@@ -6,5 +6,5 @@
   with the same API (in components achieved with higher order cpts)
 - Dispatcher is modified, so that it's possible to fire an action from
   the dispatch phase
-- Bundled with isomorphic context aware fetcher (supports cookies on
-  server side requests) and router
+- We've created an instantly pluggable context aware fetcher
+  (transparently supports cookies on server side requests) and router
