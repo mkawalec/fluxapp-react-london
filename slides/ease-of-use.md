@@ -8,3 +8,4 @@
   the dispatch phase
 - We've created an instantly pluggable context aware fetcher
   (transparently supports cookies on server side requests) and router
+- You can bind to all failed actions with `action.failed` metaaction
